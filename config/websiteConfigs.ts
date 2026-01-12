@@ -1,4 +1,4 @@
 export const websiteConfigs = {
-  title: "Urls-hortener",
+  title: "Url-shortener",
   discription: "Link shortener site",
 };
